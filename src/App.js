@@ -15,7 +15,7 @@ function App() {
         <Input type="first-name" placeholder="First name"/>
       </FormGroup>
       <FormGroup className="Form">
-        <Label>Last name</Label>
+        <Label>Last Name</Label>
         <Input type="Last-name" placeholder="Last name"/>
       </FormGroup>
       <FormGroup className="Form">
